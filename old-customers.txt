@@ -1,0 +1,35 @@
+
+Customer ID: 0
+Name: Dhruvil
+Age: 19
+Mobile Number: 89989898989
+Adress:
+Gender:
+
+Customer ID: 0
+Name: dhr
+Age: 99
+Mobile Number: 99994
+Adress:
+Gender:
+
+Customer ID: 0
+Name: ddhdh
+Age: 9
+Mobile Number: 9999
+Adress:
+Gender:
+
+Customer ID: 0
+Name: dd
+Age: 66
+Mobile Number: 88888
+Adress:
+Gender:
+
+Customer ID: 1
+Name: dd
+Age: 11
+Mobile Number: 3232
+Adress:ggg
+Gender:m
